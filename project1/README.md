@@ -1,6 +1,6 @@
 # project1
 
-A new Flutter application.
+An learning experiment of Flutter and Dart
 
 ## Getting Started
 
